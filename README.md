@@ -16,7 +16,7 @@ To write a program to predict the profit of a city using the linear regression m
  Step 4.Perform iterations og gradient steps with learning rate.
  Step 5.Plot the Cost function using Gradient Descent and generate the re
  Step 6.End
-``
+```
 
 
 PROGRAM:

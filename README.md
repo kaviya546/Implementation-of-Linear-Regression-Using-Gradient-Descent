@@ -18,14 +18,15 @@ To write a program to predict the profit of a city using the linear regression m
  Step 6.End
 ``
 
-## Program:
+
+PROGRAM:
 ```
 /*
 Developed by:   KAVIYA SNEKA M
 RegisterNumber:  212223040091
 */
 ```
-```C
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
